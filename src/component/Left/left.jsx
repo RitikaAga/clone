@@ -20,6 +20,7 @@ function Left() {
               <li><img className="image"  src={ Ads }  alt="Ads"/> <span>Ad Free </span> learning experience</li>
           </ul>
           </div>
+
           <Right/>
       </div>
   )
