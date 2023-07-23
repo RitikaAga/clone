@@ -168,7 +168,6 @@ display: flex;
         position: relative;
         top: 1px;
         left: 20px;
-        background-color: white;
         width: 97px;
         font-weight: 600;
 }
@@ -181,14 +180,12 @@ display: flex;
         top: -34px;
         left: 37px;
         width: 112px;
-        background-color: white;
 }
 .div8_para3 {
 position: relative;
     bottom: 70px;
     left: 189px;
     font-size: 10px;
-    background-color: white;
     width: 44px;
 }
 
