@@ -1,0 +1,44 @@
+.navbar {
+    background-color: white;
+    height: 50px;
+    display:flex;
+    font-size: 14px;
+}
+
+.logo {
+    width: 6rem;
+margin-left: -24px;
+margin-right: 15px;
+}
+
+.navlist{
+    list-style: none;
+    display: flex;
+        gap: 2rem;
+}
+
+.arrow{
+    position:relative;
+    left: -2rem;
+
+}
+.search{
+    position:relative;
+    left:1202%;
+}
+
+.login{
+    position: relative;
+    left:358px;
+}
+.btn{
+   width: 98px;
+    height: 26px;
+    position: relative;
+    top: 11px;
+    left: 39%;
+    background: linear-gradient(180deg, rgb(0, 72, 255) 0%, rgb(0, 150, 255) 100%);
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
